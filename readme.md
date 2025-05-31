@@ -1,10 +1,11 @@
 # Hi, welcome!
  I'm Hermes Jr, a newcomer as webdev, learning tool for become a good fullstack.
 Please let me know if you have a project to work, we can grow up together!
+## Languages
+ - 🇧🇷 Portuguese - Native
+ - 🇺🇲 English - B2 Upper Intermediate
 
-
-
-<h3 align="center">Recently used Tools</h3>
+## Recently used Tools
 <p align="left">
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
@@ -62,7 +63,9 @@ Please let me know if you have a project to work, we can grow up together!
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hermesjrns&show_icons=true&title_color=000000&text_color=ff5c00&cache_seconds=1800&locale=en&layout=compact" alt="hermesjrns" /></p>
-<h3 align="left">Connect with me:</h3>
+
+
+## Connect with me:
 <p align="left">
 </p>
 
